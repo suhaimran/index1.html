@@ -1,27 +1,4 @@
-
-<!DOCTYPE HTML>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>SweetSexySavage</title>
-   <style>
-	    h1 {
-		    color: purple;
-		    text-align: center;
-	    }
-	    h2 {
-		    color: rgb(166,45,82);
-		    font-family: monospace;
-	    }
-	    h3 {
-		    color: rgb(87,8,81);
-	    }
-	    h4 {
-		    color: rgb (34,34,117);
-		    font-family: monospace;
-	    }
-		       
-  </style>
+SweetSexySavage
 
 </head>
 <body>
